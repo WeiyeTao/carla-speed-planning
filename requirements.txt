@@ -1,0 +1,13 @@
+# CARLA Speed Planning Comparison
+# Python 3.8+
+
+# Core
+numpy>=1.21.0
+matplotlib>=3.5.0
+torch>=1.10.0
+
+# SNN
+snntorch>=0.6.0
+
+# CARLA Python API (install separately from CARLA distribution)
+# carla==0.9.16
