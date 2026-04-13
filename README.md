@@ -172,4 +172,4 @@ The pipeline produces 7 comparison plots in `plots/`:
 
 ## License
 
-This project is for academic use (COMP5423 coursework).
+This project is for academic use (ME5423 coursework).
